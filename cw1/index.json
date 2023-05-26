@@ -19,7 +19,7 @@
     {
       "kind": "styling",
       "tag": "com-sap-sample-pyodide-matplotlib-styling",
-      "url": "http://localhost:3000/pyodide/matplotlib/styling.js",
+      "url": "https://jaiswalshikhar.github.io/cw1/styling.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
